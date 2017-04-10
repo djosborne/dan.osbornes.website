@@ -1,0 +1,17 @@
+title: dan.osbornes.website
+email: dan@osbornes.website
+description: |
+  Music, Tech, and Travels.
+twitter_username: ozdanborne
+github_username:  djosborne
+
+permalink: /:categories/:title
+url: https://dan.osbornes.website
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
