@@ -1,9 +1,12 @@
 title: dan.osbornes.website
+description: "Music, Tech, and Travels."
+url: dan.osbornes.website
 email: dan@osbornes.website
-description: |
-  Music, Tech, and Travels.
+author: Dan Osborne
 twitter_username: ozdanborne
-github_username:  djosborne
+github_username: ozdanborne
+twitter:
+  username: ozdanborne
 
 permalink: /:categories/:title
 url: https://dan.osbornes.website
@@ -15,3 +18,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+google-analytics: UA-38671231-2
